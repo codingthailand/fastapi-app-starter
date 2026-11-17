@@ -1,0 +1,1 @@
+## Fast API Starter App for AI Bootcamp 1
